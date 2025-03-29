@@ -25,7 +25,7 @@ export class ProjectsComponent {
       title: 'Marvel Project',
       width: '100px',
       height: '50px',
-      description: '<p>Porject made to consume marvel api and show the heroes and vilains, some informations about them and their most expensive HQ</p>',
+      description: '<p>Project made to consume marvel api and show the heroes and villains, some informations about them and their most expensive HQ</p>',
       links: [
         {
           name: 'Know about it on GitHub',
