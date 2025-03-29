@@ -20,7 +20,6 @@
 
         article, summary {
             padding: 10px 20px;
-            color: var(--grey);
             transition: 500ms;
         }
 
@@ -51,8 +50,7 @@
                     margin-top: 5px;
                 }
 
-                background: var(--primary);
-                border-radius: 7px 7px 0 0 !important;
+                border-radius: 7px 7px 0 0;
             }
         }
 
@@ -63,8 +61,7 @@
                     margin-top: 5px;
                 }
 
-                background: var(--primary);
-                border-radius: 7px 7px 0 0 !important;
+                border-radius: 7px 7px 0 0;
             }
         }
     }
